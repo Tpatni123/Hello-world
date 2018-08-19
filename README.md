@@ -1,3 +1,3 @@
 # Hello-world
 Biostatistics........
-Try to learn GITHUB!
+Trying to learn GITHUB!
